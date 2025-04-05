@@ -5,7 +5,7 @@
 [![React](https://img.shields.io/badge/React-18.2-%2361DAFB)](https://reactjs.org/)  
 [![OpenWeatherMap](https://img.shields.io/badge/API-OpenWeatherMap-%236DB33F)](https://openweathermap.org/)  
 
-![App Preview]<a href="https://ibb.co/0pCcnD99"><img src="https://i.ibb.co/bjsP6Wvv/Screenshot-2025-04-05-132019.png" alt="Screenshot-2025-04-05-132019" border="0"></a>
+<a href="https://ibb.co/0pCcnD99"><img src="https://i.ibb.co/bjsP6Wvv/Screenshot-2025-04-05-132019.png" alt="Screenshot-2025-04-05-132019" border="0"></a>
 
 ---
 
@@ -47,3 +47,37 @@ echo "VITE_API_KEY=your_api_key" > .env
 
 # Run locally  
 npm run dev  
+
+📂 Project Structure
+src/  
+├── components/          # React components  
+│   ├── InfoBox.jsx      # Weather data card  
+│   └── SearchBox.jsx    # City search form  
+├── App.jsx              # Main app logic  
+└── assets/              # Styles & images
+
+🌍 Live Demo
+
+
+
+
+
+🙌 How to Contribute
+Fork the repository
+
+Create a new branch (git checkout -b feature/your-feature)
+
+Commit changes (git commit -m 'Add some feature')
+
+Push to branch (git push origin feature/your-feature)
+
+Open a Pull Request
+
+
+
+
+
+📬 Contact
+Sheikh Wasimuddin
+📧 sheikhwasimuddin786@gmail.com
+
